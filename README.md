@@ -1,5 +1,5 @@
-# 数字部件设计 labs (2017)
+# Digital Component Design labs (2017)
 
-Solution of labs from SE345 (数字部件设计), SJTU.
+Solution of labs from SE345 (Digital Component Design), SJTU.
 
 ![screen recording of the game](screen.gif)
